@@ -7,7 +7,7 @@ N. Bašić, P. W. Fowler, T. Pisanski and I. Sciriha,
 On Singular Signed Graphs with Nullspace Spanned by a Full Vector: Signed Nut Graphs,
 https://arxiv.org/abs/2009.09018
 
-for verification of Table X and Theorems X and X. Each entry gives an adjacency list,
+for verification of Table 1 and Theorems 9 and 21. Each entry gives an adjacency list,
 together with the pattern of positive and negative weights and the kernel eigenvector
 as a list of integer entries. Each graph is given with three lines:
 
@@ -25,4 +25,4 @@ for which no sign-balanced nut graph exists).
 The file `low-degree-sign-unbalanced.txt` contains sign-unbalanced nut graphs for low degrees.
 They are indicated by a tick and a Maltese cross in the Table 1 of the paper (i.e. both
 a sign-balanced and a sign-unbalanced nut graph exists). These are needed for the proof of
-Theorem X in the paper.
+Theorem 21 in the paper.
